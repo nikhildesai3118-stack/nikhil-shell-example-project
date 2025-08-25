@@ -1,3 +1,5 @@
 a+b= 1
 
-substraction
+substract
+
+division
